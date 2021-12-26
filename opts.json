@@ -1,6 +1,13 @@
 {
     "folder":{
         "Data":"./Data/",
-        "res":"./res/"
-    }
+        "res":"./res/",
+        "out":"./out/"
+    },
+
+    "file":{
+        "snp_list":"./res/snp_list.txt"
+    },
+
+    "keep_ambiguous":true
 }
