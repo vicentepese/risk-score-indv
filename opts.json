@@ -6,8 +6,9 @@
     },
 
     "file":{
-        "snp_list":"./res/snp_list.txt"
+        "pheno":"./res/pheno.txt",
+        "prs":"./out/risk_score.best"
     },
 
-    "keep_ambiguous":true
+    "keep_ambiguous":false
 }
