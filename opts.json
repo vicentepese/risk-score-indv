@@ -7,8 +7,10 @@
 
     "file":{
         "pheno":"./res/pheno.txt",
-        "prs":"./out/risk_score.best"
+        "prs":"./out/risk_score.best",
+        "viz_prs":"./PRSice.best",
+        "PCA":"./res/PCA.eigenvec"
     },
 
-    "keep_ambiguous":false
+    "keep_ambiguous":true
 }
